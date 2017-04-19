@@ -1,0 +1,15 @@
+{
+  "name": "manikanta-ssh",
+  "version": "0.1.0",
+  "author": "Manikanta Sai <manikantasai.d@gmail.com>",
+  "summary": "Maintains ssh",
+  "license": "Apache-2.0",
+  "source": "git@github.com:maniakntasaid/puppet-modules.git",
+  "project_page": "git@github.com:maniakntasaid/puppet-modules.git",
+  "issues_url": "git@github.com:maniakntasaid/puppet-modules.git",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
